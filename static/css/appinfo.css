@@ -1,0 +1,27 @@
+
+.ihh{
+    margin-top: 45px;
+    margin-bottom: 5px;
+}
+.ipic{
+    text-align: center;
+}
+.ipic img{
+    width: 40%;
+    height: 40%;
+}
+.iname,.ifeature{
+    padding: 10px;
+    text-align: justify;
+}
+.ifhead{
+    margin-left: 5px;
+    padding-left: 10px;
+    width: 97%;
+    border-radius: 10px;
+    height: 40px;
+    background-color: #000000;
+    color: white;
+    line-height: 40px;
+    font-family: "微软雅黑";
+}
